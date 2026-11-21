@@ -1,0 +1,6 @@
+{
+  "name": "How I remember today",
+  "description": "A calm, tactile daily habit tracker, mood log, handwritten journal, and ideas scratchpad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
